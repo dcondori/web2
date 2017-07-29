@@ -1,0 +1,7 @@
+/* CSS Document */
+
+/*editar [span].[error] 
+  -> para todo [span] con atributo clase [error]*/
+span.error {
+    color:red
+}
